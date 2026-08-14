@@ -1,0 +1,16 @@
+---
+description: How to add and edit prompts and Cursor rules in this library.
+globs:
+alwaysApply: true
+---
+
+# Prompt library
+
+This repository is a prompt and Cursor-rule library. Follow [RULES.md](../../RULES.md) for layout, naming, frontmatter, and required sections.
+
+When adding or editing an entry:
+
+- Put prompts in `prompts/<category>/` and rules in `rules/<category>/`.
+- Copy `templates/prompt.md` or `templates/rule.mdc`. Use kebab-case filenames.
+- Keep one job per file. Update the category `README.md` index.
+- Never commit secrets or one-off chat dumps.
