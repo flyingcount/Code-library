@@ -42,10 +42,10 @@ Do not add a new top-level folder without updating this section and `README.md`.
 | Folder | Use for |
 | --- | --- |
 | `coding/` | Implement, refactor, debug, generate tests |
-| `review/` | Code review, security review, PR feedback |
-| `planning/` | Specs, architecture, task breakdown |
-| `writing/` | Docs, commit messages, PR descriptions |
-| `research/` | Explain, compare, investigate |
+| `review/` | Code review, security review, PR feedback, proposal or argument critique |
+| `planning/` | Specs, architecture, task breakdown, structured thinking sessions |
+| `writing/` | Docs, presentations, hierarchical restructuring |
+| `research/` | Explain, compare, investigate, briefings |
 | `agents/` | System prompts and agent instructions |
 
 Put a file in the category that matches **when you would reach for it**, not the domain of the code it happens to mention. If none fit, add a category: create the folder, add a `README.md` index, and update this table.

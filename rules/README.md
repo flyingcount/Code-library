@@ -7,10 +7,10 @@ Keep Cursor frontmatter (`description`, `globs`, `alwaysApply`). Library fields 
 | Category | For |
 | --- | --- |
 | [coding](coding/) | Implement, refactor, debug, tests |
-| [review](review/) | Code review, security review, PR feedback |
-| [planning](planning/) | Specs, architecture, task breakdown |
-| [writing](writing/) | Docs, commit messages, PR descriptions |
-| [research](research/) | Explain, compare, investigate |
+| [review](review/) | Code review, security review, PR feedback, proposal critique |
+| [planning](planning/) | Specs, architecture, task breakdown, thinking sessions |
+| [writing](writing/) | Docs, presentations, hierarchical restructuring |
+| [research](research/) | Explain, compare, investigate, briefings |
 | [agents](agents/) | System prompts and agent instructions |
 
 Add new rules with [templates/rule.mdc](../templates/rule.mdc). Follow [RULES.md](../RULES.md).

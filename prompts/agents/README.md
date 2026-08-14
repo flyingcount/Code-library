@@ -4,5 +4,4 @@ System prompts and agent instructions.
 
 | ID | Title | Status | When to use |
 | --- | --- | --- | --- |
-
-None yet. Copy [templates/prompt.md](../../templates/prompt.md) to add one.
+| `agents/thinking-expert` | Thinking expert | draft | Route or chain LATERAL, MINTO-GAP, and TPLSG |

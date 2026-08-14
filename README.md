@@ -19,10 +19,10 @@ Categories (shared by `prompts/` and `rules/`):
 | Category | When to reach for it |
 | --- | --- |
 | [coding](prompts/coding/) | Implement, refactor, debug, tests |
-| [review](prompts/review/) | Code review, security review, PR feedback |
-| [planning](prompts/planning/) | Specs, architecture, task breakdown |
-| [writing](prompts/writing/) | Docs, commit messages, PR descriptions |
-| [research](prompts/research/) | Explain, compare, investigate |
+| [review](prompts/review/) | Code review, security review, PR feedback, proposal critique |
+| [planning](prompts/planning/) | Specs, architecture, task breakdown, thinking sessions |
+| [writing](prompts/writing/) | Docs, presentations, hierarchical restructuring |
+| [research](prompts/research/) | Explain, compare, investigate, briefings |
 | [agents](prompts/agents/) | System prompts and agent instructions |
 
 ## Use a prompt
