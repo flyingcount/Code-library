@@ -1,0 +1,21 @@
+---
+description: Prefer small, reviewable diffs over broad cleanup while implementing or refactoring.
+globs:
+alwaysApply: false
+title: Prefer small diffs
+id: coding/prefer-small-diffs
+category: coding
+tags: [diffs, scope, review]
+status: active
+version: 1
+---
+
+# Prefer small diffs
+
+Keep changes scoped to the requested task.
+
+- Change only files required for the goal. Do not mix formatting, renames, or unrelated cleanup into a behavior change.
+- If a refactor is required, do it in a separate commit or call it out before mixing it with feature work.
+- Prefer a short, reviewable patch over a speculative rewrite.
+- Match existing style in the files you touch. Do not introduce a new pattern in one file unless the task is to change that pattern.
+- When deleting code, remove call sites and tests that only existed for that code.

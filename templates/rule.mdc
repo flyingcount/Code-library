@@ -1,0 +1,19 @@
+---
+description: One sentence on when this rule should load.
+globs:
+alwaysApply: false
+title: Short title
+id: category/kebab-name
+category: coding
+tags: [tag-one]
+status: draft
+version: 1
+---
+
+# Short title
+
+Apply this rule when working in the matching files.
+
+- Do ...
+- Do not ...
+- Prefer ...
